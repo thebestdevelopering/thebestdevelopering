@@ -31,8 +31,8 @@
 ### - Сайт для ремонтных работ, помогающий найти рабочих для работодателей, и работу для рабочих. В нем можно добавлять, редактировать и удалять объявления о работе, делать отклики.
 
 ### Связаться со мной: 
-[<img align="left" alt="pochta | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />][telegram]
-[<img align="left" alt="developer.ing | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+<img align="left" alt="pochta | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />
+[<img align="left" alt="developer.ing | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />]
 <br />.
 
 <details>
