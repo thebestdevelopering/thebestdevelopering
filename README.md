@@ -22,6 +22,12 @@
 
 <br/>
 
+### Связаться со мной: 
+<img align="left" alt="pochta | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />
+<img align="left" alt="developer.ing | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+<br />.
+<br />
+
 ### Мои работы:
 
 ### - Маркетплейс квадрокоптеров. Командный недельный проект. В этом проекте я разрабатывал регистрацию, авторизацию, личный кабинет, добавление и удаление постов постов, выгрузку фотографий.
@@ -30,11 +36,6 @@
 
 ### - Сайт для ремонтных работ, помогающий найти рабочих для работодателей, и работу для рабочих. В нем можно добавлять, редактировать и удалять объявления о работе, делать отклики.
 
-### Связаться со мной: 
-<img align="left" alt="pochta | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />
-<img align="left" alt="developer.ing | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-<br />.
-<br />
 
 <details>
   <summary>:zap: Statistics:</summary>
