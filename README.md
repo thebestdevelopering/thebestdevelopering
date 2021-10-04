@@ -1,5 +1,3 @@
-### Мой стек
-
 ### Languages and Tools:
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=yellow" alt="js"/><img src="https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=node.js&logoColor=gree" alt="nodejs"/>
 <img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=00FFFF"/>
@@ -33,5 +31,13 @@
 ### - Сайт для ремонтных работ, помогающий найти рабочих для работодателей, и работу для рабочих. В нем можно добавлять, редактировать и удалять объявления о работе, делать отклики.
 
 ### Связаться со мной: 
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/series_black)
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/pochta)
 <br />.
+
+<details>
+  <summary>:zap: Statistics:</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thebestdevelopering&show_icons=true&theme=dark"/>
+  <br />
+  <br />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebestdevelopering&langs_count=8&layout=compact"/>
+</details>
