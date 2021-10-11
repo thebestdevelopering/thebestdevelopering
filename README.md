@@ -45,5 +45,5 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebestdevelopering&langs_count=8&layout=compact"/>
 </details>
 
-[instagram]: https://www.instagram.com/developer_ing/
+[instagram]: https://www.instagram.com/developer.ing/
 [telegram]: https://t.me/pochta/
