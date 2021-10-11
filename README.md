@@ -23,7 +23,7 @@
 ### Связаться со мной: 
 [<img align="left" alt="Thebestdevelopering | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />][telegram]
 [<img align="left" alt="Thebestdevelopering | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-<br />.
+<br />
 <br />
 
 ### Мои работы:
