@@ -21,7 +21,7 @@
 <br/>
 
 ### Связаться со мной: 
-<img align="left" alt="pochta | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />
+<img align="left" alt="t.me/pochta | Telegram" width="40px" src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" />
 <img align="left" alt="developer.ing | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
 <br />.
 <br />
