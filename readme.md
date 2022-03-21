@@ -8,7 +8,7 @@
 <div align="center">
   <div> How to reach me: </div>
   <br/>
-<a href="https://www.instagram.com/developer.ing"><img alt="Instagram" src="https://img.shields.io/badge/-instagram-critical?style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/developer.ing"><img alt="Instagram" src="https://raw.githubusercontent.com/thebestdevelopering/aaa/main/inst.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/pochta">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
